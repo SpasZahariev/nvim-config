@@ -10,7 +10,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'joshdick/onedark.vim'
 	Plug 'kaicataldo/material.vim'
 	" Intelisense
-	Plug 'neoclide/coc.nvim', {'branch': 'release'}
+"	Plug 'neoclide/coc.nvim', {'branch': 'release'}
 	" Commenting
 	Plug 'preservim/nerdcommenter'
 	filetype plugin on
